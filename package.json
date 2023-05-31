@@ -1,0 +1,32 @@
+{
+  "name": "sdk-inventoryaws-data",
+  "version": "1.0.0",
+  "description": "Consumr SDK para obtener inventario de servicios de AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aida.martinez",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-cdk/aws-lambda": "^1.202.0",
+    "@aws-sdk/client-api-gateway": "^3.332.0",
+    "@aws-sdk/client-docdb": "^3.329.0",
+    "@aws-sdk/client-dynamodb": "^3.329.0",
+    "@aws-sdk/client-lambda": "^3.328.0",
+    "@aws-sdk/client-rds": "^3.329.0",
+    "@aws-sdk/client-secrets-manager": "^3.329.0",
+    "@aws-sdk/util-dynamodb": "^3.332.0",
+    "aws-cdk-lib": "^2.80.0",
+    "aws-sdk": "^2.1383.0",
+    "csv-write-stream": "^2.0.0",
+    "csv-writer": "^1.6.0",
+    "fast-csv": "^4.3.6",
+    "json2csv": "^6.0.0-alpha.2",
+    "stream": "^0.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.0"
+  },
+  "keywords": []
+}

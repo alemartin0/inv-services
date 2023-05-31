@@ -1,0 +1,13 @@
+Name,ID,Description,Created Date,Version,Endpoint
+alms06ue1-sumadi-code-protection-agw-prodLA,454mizrtja,,Thu Oct 27 2022 15:48:18 GMT-0600 (Central Standard Time),,EDGE
+prod-summary-data-service,6phvsmnm8l,Stage Data Summary endpoint,Tue Mar 14 2023 16:00:42 GMT-0600 (Central Standard Time),,EDGE
+alms-sumadi-prod-institutionSettings-REST,csyls0iquj,API for lambda institution settings (LA/EU),Tue Dec 15 2020 16:18:49 GMT-0600 (Central Standard Time),,REGIONAL
+prod-record-and-review-service,g10nuozvik,Record and Review endpoint,Tue Mar 14 2023 15:32:01 GMT-0600 (Central Standard Time),,EDGE
+alms06ue1-sumadi-exams-auth-prod-api-auth-service,i1j31055hj,,Tue Jul 26 2022 13:37:51 GMT-0600 (Central Standard Time),,REGIONAL
+alms06ue1-sumadi-code-protection-agw-prod-bl,jtfriws7d9,,Wed Jan 04 2023 12:01:29 GMT-0600 (Central Standard Time),,EDGE
+alms06ue1-sumadi-apigateway-prod-lms-settings,kpqiu7khc5,,Fri Jul 30 2021 09:52:27 GMT-0600 (Central Standard Time),,REGIONAL
+prod-alms-sumadi-faculty,pwcbajmel8,,Wed Sep 01 2021 22:16:07 GMT-0600 (Central Standard Time),,EDGE
+alms06ue1-sumadi-prod-MicroserviceApiGateway-apigateway,tdbec32or1,,Fri Aug 06 2021 17:03:55 GMT-0600 (Central Standard Time),,REGIONAL
+alms06ue1-sumadi-api-prod-apiMeeting,vqnk725u9c,,Tue Dec 27 2022 10:23:18 GMT-0600 (Central Standard Time),,REGIONAL
+alms04ue1-prod-ApolloWBStation-api,xpkr7y3xce,,Wed Sep 22 2021 14:40:25 GMT-0600 (Central Standard Time),,REGIONAL
+alms06ue1-sumadi-exams-ms-prod-api-microservice,yorqb7e24i,,Tue Jul 26 2022 14:21:04 GMT-0600 (Central Standard Time),,REGIONAL
